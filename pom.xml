@@ -4,7 +4,6 @@
 	<groupId>dahua</groupId>
 	<artifactId>maven-demo</artifactId>
 	<version>2.1</version>
-
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
